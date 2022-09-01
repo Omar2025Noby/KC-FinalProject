@@ -6,7 +6,7 @@
 }
 
 body {
-  background: rgb(234, 182, 38);
+  background: rgb(200 238 255);
   min-height: 200vh;
 
   display: flex;
@@ -102,7 +102,7 @@ header .logo {
   text-transform: uppercase;
   letter-spacing: 2px;
   transition: 0.6s;
-  margin-right: 900px;
+  margin-right: 800px;
 }
 
 header.sticky.logo,
