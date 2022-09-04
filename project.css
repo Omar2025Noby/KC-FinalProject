@@ -74,7 +74,7 @@ header img {
 .banner {
   position: relative;
 
-  height: 90vh;
+  height: 95vh;
   background: url(./phones.png);
   opacity: 1;
   background-size: cover;
@@ -187,7 +187,10 @@ font-size: 15px;
   margin-top: 50px;
 }
 
-
+::-webkit-scrollbar {
+  
+  height: 0;
+}
 
 
 
